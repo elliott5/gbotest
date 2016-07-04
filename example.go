@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/elliott5/gboplay"
+	"github.com/elliott5/local/gboplay"
 )
 
 func main() {
